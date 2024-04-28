@@ -8,7 +8,7 @@ const pool = new Pool({
 
 const app = express();
 
-const PORT = 10000; 
+const PORT = 3000; 
 
 app.use(express.json());
 
